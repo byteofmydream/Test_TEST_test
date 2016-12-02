@@ -1,0 +1,1 @@
+docker-compose -d -f src/test/resources/docker/docker-compose.yml up -d && mvn clean install
